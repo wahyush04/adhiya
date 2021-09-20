@@ -1,6 +1,10 @@
 
 import 'package:adhiya/data/data.dart';
+import 'package:audioplayers/audioplayers.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+// import 'package:cache_audio_player/cache_audio_player.dart';
+
 
 
 class Detail extends StatefulWidget {
@@ -19,11 +23,59 @@ class Detail extends StatefulWidget {
 
 class _DetailState extends State<Detail> {
 
-  // DataAdhiya surah = DataAdhiyaList[i];
+  AudioPlayer audioPlayer = AudioPlayer();
+  PlayerState audioPlayerState = PlayerState.PAUSED;
+  // CacheAudioPlayer audioCache = CacheAudioPlayer();
+  AudioCache audioCache = AudioCache();
+
+  String path = 'audio/lofi.mp3';
+
+  @override
+  void initState() {
+    super.initState();
+    
+    audioCache = AudioCache(fixedPlayer: audioPlayer);
+    audioPlayer.onPlayerStateChanged.listen((PlayerState s) {
+      setState(() {
+        audioPlayerState = s;
+      });
+    });
+  }
+
+  @override
+  void dispose() {
+    super.dispose();
+    audioPlayer.release();
+    audioPlayer.dispose();
+    audioCache.clearAll();
+
+  }
+
+  playAudio() async {
+    await audioCache.play(path);
+  }
+
+  pauseAudio() async {
+    await audioPlayer.pause();
+  }
+
+
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        leading: InkWell(
+          onTap: (){Navigator.pop(context);},
+          child: Icon(Icons.chevron_left)),
+          title: Text("${DataAdhiyaList[widget.i].name}"),
+          actions: <Widget>[
+            IconButton(onPressed: () {
+              ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(content: Text('This is a snackbar')));
+            }, icon: Icon(Icons.play_arrow_rounded))
+          ],
+      ),
       body: SafeArea(
         child: SingleChildScrollView(
           child: Stack(
@@ -39,18 +91,6 @@ class _DetailState extends State<Detail> {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
-                              CircleAvatar(
-                                backgroundColor: Colors.grey,
-                                child: IconButton(
-                                  icon: Icon(
-                                    Icons.arrow_back,
-                                    color: Colors.white,
-                                  ),
-                                  onPressed: () {
-                                    Navigator.pop(context);
-                                  },
-                                ),
-                              ),
                               Center(
                                 child: Text(
                                   DataAdhiyaList[widget.i].name,
@@ -73,10 +113,12 @@ class _DetailState extends State<Detail> {
                                       child: Container(
                                         alignment: Alignment.centerRight,
                                         child: Padding(
-                                          padding: const EdgeInsets.all(5.0),
+                                          padding: const EdgeInsets.all(8.0),
                                           child: Text(
-                                            text, textAlign: TextAlign.right,
+                                            text + "۞", textAlign: TextAlign.justify, textDirection: TextDirection.rtl,
                                             style: TextStyle(
+                                              fontFamily: 'lpmq',
+                                              fontWeight: FontWeight.normal,
                                                 fontSize: 30,
                                             ),
                                           ),
@@ -90,23 +132,23 @@ class _DetailState extends State<Detail> {
                                 children: [
                                   InkWell(
                                     onTap: (){
-                                      Navigator.push(context, MaterialPageRoute(builder: (context){
-                                        // final DataAdhiya surah = DataAdhiyaList[index+1];
-                                        int inext = widget.i + 1;
-                                        return Detail(i: inext);
-                                      }));
-                                    },
-                                    child: Icon(Icons.arrow_right),
-                                  ),
-                                  InkWell(
-                                    onTap: (){
-                                      Navigator.push(context, MaterialPageRoute(builder: (context){
+                                      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context){
                                         // final DataAdhiya surah = DataAdhiyaList[index+1];
                                         int iback = widget.i - 1;
                                         return Detail(i: iback);
                                       }));
                                     },
                                     child: Icon(Icons.arrow_left),
+                                  ),
+                                  InkWell(
+                                    onTap: (){
+                                      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context){
+                                        // final DataAdhiya surah = DataAdhiyaList[index+1];
+                                        int inext = widget.i + 1;
+                                        return Detail(i: inext);
+                                      }));
+                                    },
+                                    child: Icon(Icons.arrow_right),
                                   ),
 
                                 ],
@@ -122,7 +164,23 @@ class _DetailState extends State<Detail> {
             ],
           ),
         ),
-      )
+      ),
+      bottomNavigationBar: BottomAppBar(
+        color: Colors.green,
+        child: Padding(
+          padding: const EdgeInsets.all(5.0),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: <Widget>[
+              Icon(Icons.skip_previous),
+              IconButton(
+                onPressed: () => audioPlayerState == PlayerState.PLAYING ? pauseAudio() : playAudio(),
+                icon: Icon(audioPlayerState == PlayerState.PLAYING ? Icons.pause_rounded : Icons.play_arrow_rounded)),
+              Icon(Icons.skip_next)
+            ]
+            
+          ),
+        )),
     );
   }
 }
