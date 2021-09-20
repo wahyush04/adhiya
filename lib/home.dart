@@ -1,3 +1,4 @@
+
 import 'package:adhiya/adhiya.dart';
 import 'package:adhiya/biografi.dart';
 import 'package:adhiya/profile.dart';
@@ -21,7 +22,7 @@ class _MyHomePageState extends State<MyHomePage> {
   final tabs = [
     adhiya(),
     Biografi(),
-    Profile(),
+    Tentang()
     
   ];
   @override
@@ -40,8 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
           IconButton(
             icon: Icon(CupertinoIcons.person_fill),
             onPressed: () {
-              ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(content: Text('This is a snackbar')));
+              Navigator.push(context, MaterialPageRoute(builder: (context) => Profile()));
             },
           )
         ],

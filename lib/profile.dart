@@ -5,8 +5,11 @@ class Profile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: SingleChildScrollView(
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Proile Developer'),
+      ),
+      body: SingleChildScrollView(
           child: SafeArea(
             child: Column(
               children: [
