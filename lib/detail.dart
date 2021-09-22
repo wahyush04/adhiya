@@ -30,7 +30,7 @@ class _DetailState extends State < Detail > {
   // CacheAudioPlayer audioCache = CacheAudioPlayer();
   AudioCache audioCache = AudioCache();
 
-  String path = 'audio/lofi.mp3';
+  // String path = 'audio/lofi.mp3';
 
   @override
   void initState() {
@@ -54,7 +54,7 @@ class _DetailState extends State < Detail > {
   }
 
   playAudio() async {
-    await audioCache.play(path);
+    await audioCache.play(DataAdhiyaList[widget.i].audio);
   }
 
   pauseAudio() async {
@@ -181,7 +181,7 @@ class _DetailState extends State < Detail > {
                 IconButton(onPressed: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) {
                     int index = widget.i;
                     int inext = widget.i + 1;
-                    if (index == 13) {
+                    if (index == 14) {
                       return Detail(i: index);
                     } else {
                       return Detail(i: inext);

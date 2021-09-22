@@ -21,7 +21,7 @@ var DataAdhiyaList = [
       "لِجَمِيْعِ الْعُلَمَءِالْعَامِلِيْنَ وَالْأَوْلِيَاءِالْعَارِفِيْنَ وَلِوَالِدِيْنَاوَلِمَشَايِحِنَ وَلِلنَّهْضِيَّيْنَ وَالنَّهْضِيَّاتِ وَلِجَمِيْعِ الْمُسْلِمَاتِ",
 
     ],
-    audio: 'audio tawassul'
+    audio: 'audio/Tawasul_1.mp3'
     ),
     DataAdhiya(
     name: "Ya Rabbi Shalli",
@@ -42,7 +42,7 @@ var DataAdhiyaList = [
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
     ],
-    audio: 'audio Ya Rabbi Shalli'
+    audio: 'audio/ya_rabb_shalli_2.mp3'
     ),
     DataAdhiya(
     name: "Assalamu'alaik",
@@ -59,7 +59,7 @@ var DataAdhiyaList = [
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
     ],
-    audio: "audio Assalamu'alaik"
+    audio: "audio/assalamualaik_3.mp3"
     ),
     DataAdhiya(
     name: "Inna Fatahna",
@@ -71,7 +71,7 @@ var DataAdhiyaList = [
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
     ],
-    audio: "audio Inna Fatahna"
+    audio: "audio/Inna_Fatahna_4.mp3"
     ),
     DataAdhiya(
     name: "Alhamdulillahi",
@@ -106,7 +106,7 @@ var DataAdhiyaList = [
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
     ],
-    audio: "audio Alhamdulillahi"
+    audio: "audio/alhamdulillahi_5.mp3"
     ),
 
     DataAdhiya(
@@ -127,7 +127,7 @@ var DataAdhiyaList = [
       "يَارَبَّنَاصَلِّ وَسَلِّمْ دَائِمًاعَلَی حَبِيْبِكَ مَنْ إِلَيْكَ دَعَانَا",
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
     ],
-    audio: "audio Khoirol Bariyyah"
+    audio: "audio/Nabba_Anallah_6.mp3"
     ),
 
     DataAdhiya(
@@ -156,7 +156,7 @@ var DataAdhiyaList = [
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
     ],
-    audio: "Nurul Musthofa"
+    audio: "audio/Nurul_Musthofa_7.mp3"
     ),
 
     DataAdhiya(
@@ -176,7 +176,7 @@ var DataAdhiyaList = [
       "يَارَبَّنَا صَلِّ وَسَلِّمْ دَائِمًاعَلَی حَبِيْبِكَ مَنْ إِلَيْكَ دَعَانَا",
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
     ],
-    audio: "audio Hadza Waqod Nasaro"
+    audio: "audio/Hadza_Waqod_Nasaro_8.mp3"
     ),
 
     DataAdhiya(
@@ -190,7 +190,7 @@ var DataAdhiyaList = [
       "كَذَا سَلاَمِيْ عَلَى الدَّوَامِ * عِنْدَ الصَّلاَحِيْ مَعَ الأَتِيَّةٌ",
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
     ],
-    audio: "audio Khoirol Bariyyah"
+    audio: "audio/Khoirol_Bariyah_9.mp3"
     ),
 
     DataAdhiya(
@@ -211,7 +211,7 @@ var DataAdhiyaList = [
       "وَتَجَلَّتْ الَْأنْوَارُ مِنْ كُلَّ الْجِهَا تِ فَوَقْتُ مِيْلاَدِالْمُشَفَّعِ حَانَا",
       "وَقُبَيْلَ فَجْرٍ أَبْرَزَتْ شَمْسَ الْهُدَى ظَهَرَ الْحَبِيْبُ مُكَرَّمًاوَمُصَانَا",
     ],
-    audio: "audio Lamma Dana"
+    audio: "audio/Lamma_Dana_10.mp3"
     ),
 
     DataAdhiya(
@@ -244,7 +244,7 @@ var DataAdhiyaList = [
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
     ],
-    audio: "audio Mahallul Qiyam"
+    audio: "audio/Mahalul_Qiyam_11.mp3"
     ),
 
     DataAdhiya(
@@ -267,7 +267,7 @@ var DataAdhiyaList = [
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
     ],
-    audio: "audio Wulidal Habib"
+    audio: "audio/silent.mp3"
     ),
 
     DataAdhiya(
@@ -319,7 +319,7 @@ var DataAdhiyaList = [
       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
     ],
-    audio: "audio Wa Atahu Jibril"
+    audio: "audio/silent.mp3"
     ),
 
     DataAdhiya(
@@ -348,7 +348,7 @@ var DataAdhiyaList = [
       "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَ  وَسَلَامٌ عَلَى الْمُرْسَلِيْنَ  وَالْحَمْدُلِلهِ  رَبِّ الْعَالَمِيْنَ",
 
     ],
-    audio: "audio Doa"
+    audio: "audio/Doa_12.mp3"
     ),
   
 ];

@@ -56,6 +56,19 @@ flutter:
     - assets/bg.jpg
     - assets/tgkh.jpeg
     - assets/audio/lofi.mp3
+    - assets/audio/alhamdulillahi_5.mp3
+    - assets/audio/assalamualaik_3.mp3
+    - assets/audio/Doa_12.mp3
+    - assets/audio/Hadza_Waqod_Nasaro_8.mp3
+    - assets/audio/Inna_Fatahna_4.mp3
+    - assets/audio/Khoirol_Bariyah_9.mp3
+    - assets/audio/Lamma_Dana_10.mp3
+    - assets/audio/Mahalul_Qiyam_11.mp3
+    - assets/audio/Nabba_Anallah_6.mp3
+    - assets/audio/Nurul_Musthofa_7.mp3
+    - assets/audio/Tawasul_1.mp3
+    - assets/audio/ya_rabb_shalli_2.mp3
+    - assets/audio/silent.mp3
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
