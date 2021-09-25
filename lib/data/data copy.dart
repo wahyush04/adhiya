@@ -33,43 +33,27 @@ var DataAdhiyaList = [
     ],
     audio: 'audio/Tawasul_1.mp3'
     ),
-    DataAdhiya(
-    name: "Ya Rabbi Shalli",
-    verses: [
-      "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْحَبِيْبِكَ الشَّافِعِ الْمُشَفَّعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْأَعْلَی الْوَرَی رُتْبَةًوَأَرْفَعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْأَسْمَى الْبَرَايَاجَاهًاوَأَوْسَعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاسْلُكْ بِنَارَبَّ خَيْرَمَهْيَعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَعَافِنَاوَاشْفِ كُلَّ مُوْجَعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَأَصْلِحِ الْقَلْبَ وَاعْفُ وَانْفُعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاكْفِ الْمَعَادِيْ وَاصْرِفْهُ وَارْدَعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْنَحُلُّ فِی حِصْنِكَ الْمُمَنَّعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْرَبَّ ارْضَ عَنَّارِضَاكَ الاَرْفَعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاجْعَلْ لَنَ فِی الْجِنَانِ مَجْمَعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْرَافِقْ بِنَاخَيْرَخَلْقِكَ أَجْمَعْ",
-      "يَارَبَّ صَلَّ عَلَی مُحَمَّدْيَارَبَّ صَلَّ عَلَيْهِ وَسَلَّمْ",
-      "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
+//     DataAdhiya(
+//     name: "Ya Rabbi Shalli",
+//     verses: [
+//       "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْحَبِيْبِكَ الشَّافِعِ الْمُشَفَّعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْأَعْلَی الْوَرَی رُتْبَةًوَأَرْفَعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْأَسْمَى الْبَرَايَاجَاهًاوَأَوْسَعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاسْلُكْ بِنَارَبَّ خَيْرَمَهْيَعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَعَافِنَاوَاشْفِ كُلَّ مُوْجَعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَأَصْلِحِ الْقَلْبَ وَاعْفُ وَانْفُعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاكْفِ الْمَعَادِيْ وَاصْرِفْهُ وَارْدَعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْنَحُلُّ فِی حِصْنِكَ الْمُمَنَّعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْرَبَّ ارْضَ عَنَّارِضَاكَ الاَرْفَعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاجْعَلْ لَنَ فِی الْجِنَانِ مَجْمَعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْرَافِقْ بِنَاخَيْرَخَلْقِكَ أَجْمَعْ",
+//       "يَارَبَّ صَلَّ عَلَی مُحَمَّدْيَارَبَّ صَلَّ عَلَيْهِ وَسَلَّمْ",
+//       "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
 
-    ],
-    terjemah : [
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-    ],
-    audio: 'audio/ya_rabb_shalli_2.mp3'
-    ),
+//     ],
+//     audio: 'audio/ya_rabb_shalli_2.mp3'
+//     ),
 //     DataAdhiya(
 //     name: "Assalamu'alaik",
 //     verses: [
