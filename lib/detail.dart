@@ -104,37 +104,43 @@ class _DetailState extends State < Detail > {
                                   ),
                                 ),
                               ),
-                              ListView(
-                                physics: const NeverScrollableScrollPhysics(),
-                                  shrinkWrap: true,
-                                  children: DataAdhiyaList[widget.i].verses.map((text) {
-                                    return Card(
-                                      color: Colors.grey[50],
-                                      child: Padding(
-                                        padding: const EdgeInsets.all(5.0),
-                                          child: Container(
-                                            alignment: Alignment.centerRight,
-                                            child: Padding(
-                                              padding: const EdgeInsets.all(8.0),
-                                                child: Text(
-                                                  text, textAlign: TextAlign.justify, textDirection: TextDirection.rtl,
-                                                  style: TextStyle(
-                                                    fontFamily: 'lpmq',
-                                                    fontWeight: FontWeight.normal,
-                                                    fontSize: 30,
-                                                  ),
-                                                ),
-                                            ),
-                                          ),
-                                      ),
-                                    );
-                                  }).toList(),
-                              ),
-                              Row(
-                                children: [
-
-                                ],
+                              ListView.builder(
+                                scrollDirection: Axis.vertical,
+                                shrinkWrap: true,
+                                itemCount: DataAdhiyaList[widget.i].verses.length,
+                                itemBuilder: (context, index) {
+                                  return ListTile(
+                                    title: Text(DataAdhiyaList[widget.i].verses[index]),
+                                    subtitle: Text(DataAdhiyaList[widget.i].terjemah[index]),
+                                  );
+                                },
                               )
+                              // ListView(
+                              //   physics: const NeverScrollableScrollPhysics(),
+                              //     shrinkWrap: true,
+                              //     children: DataAdhiyaList[widget.i].verses.map((text) {
+                              //       return Card(
+                              //         color: Colors.grey[50],
+                              //         child: Padding(
+                              //           padding: const EdgeInsets.all(5.0),
+                              //             child: Container(
+                              //               alignment: Alignment.centerRight,
+                              //               child: Padding(
+                              //                 padding: const EdgeInsets.all(8.0),
+                              //                   child: Text(
+                              //                     text, textAlign: TextAlign.justify, textDirection: TextDirection.rtl,
+                              //                     style: TextStyle(
+                              //                       fontFamily: 'lpmq',
+                              //                       fontWeight: FontWeight.normal,
+                              //                       fontSize: 30,
+                              //                     ),
+                              //                   ),
+                              //               ),
+                              //             ),
+                              //         ),
+                              //       );
+                              //     }).toList(),
+                              // ),
                             ],
                           ),
                         ),
