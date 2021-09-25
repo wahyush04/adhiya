@@ -117,7 +117,7 @@ class _DetailState extends State < Detail > {
                                             child: Padding(
                                               padding: const EdgeInsets.all(8.0),
                                                 child: Text(
-                                                  text + "۞", textAlign: TextAlign.justify, textDirection: TextDirection.rtl,
+                                                  text, textAlign: TextAlign.justify, textDirection: TextDirection.rtl,
                                                   style: TextStyle(
                                                     fontFamily: 'lpmq',
                                                     fontWeight: FontWeight.normal,

@@ -1,4 +1,5 @@
 
+import 'package:adhiya/Full.dart';
 import 'package:adhiya/adhiya.dart';
 import 'package:adhiya/biografi.dart';
 import 'package:adhiya/profile.dart';
@@ -21,8 +22,10 @@ class _MyHomePageState extends State<MyHomePage> {
 
   final tabs = [
     adhiya(),
+    Full(),
+    Tentang(),
     Biografi(),
-    Tentang()
+
     
   ];
   @override
@@ -52,19 +55,24 @@ class _MyHomePageState extends State<MyHomePage> {
         type: BottomNavigationBarType.shifting,
         items: [
           BottomNavigationBarItem(
+            icon: Icon(Icons.format_list_bulleted),
+            label: 'List Bacaan',
+            backgroundColor: Colors.green,
+          ),
+          BottomNavigationBarItem(
             icon: Icon(Icons.menu_book),
-            label: 'Baca',
+            label: 'Bacaan Full',
             backgroundColor: Colors.green,
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.help),
-            label: 'Profile',
-            backgroundColor: Colors.redAccent,
+            label: 'Tentang Aplikasi',
+            backgroundColor: Colors.green,
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.person),
+            icon: Icon(Icons.library_books),
             label: 'Biografi',
-            backgroundColor: Colors.cyan,
+            backgroundColor: Colors.green,
           )
         ],
         onTap: (index){
