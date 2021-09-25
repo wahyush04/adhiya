@@ -6,59 +6,63 @@
             "translation_id" : "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang"
         }, {
             "text" : "لِسَيَّدِمُحَمّدٍ سَيَّدِالْاَنَامِ وَ لِسَا ئِرْ إِ خْوَانِهِ الْاَنْبِيَا ءِ وَالْمُرْسَلِيْنَ وَأٰلِہِمْ وَاَصْحَابِہِمُ الْکِرَامِ اَجْمَءِيْنَ ",
-            "translation_id" : "Untuk Nabi Muhammad SAW. Junjungan kita dan ummat manusia, dan untuk saudara-saudaranya para Nabi dan Rasul, serta para keluarga dan sahabat mereka"
+            "translation_id" : "Untuk Nabi Muhammad SAW. Junjungan kita dan ummat manusia, dan untuk saudara-saudaranya para Nabi dan Rasul, serta para keluarga dan sahabat mereka",
+            "text2" : "اَلْفَاتِحَة"
         }, {
             "text" : "خُصُوْصً صَاحِبُ الْمَوْلِدْالضَّيَاءُالَّامِعْ اَلْحَبِيْبَ عُمَرْبِنْ مُحَمَّدْبِنْ سَالِمْ بِنْ حَفِيظْ",
-            "translation_id" : ""
+            "translation_id" : "Khusus Kepada Yang Membuat Kitab Adhiya Ullami Al Habib Umar Muhammad Bin Salim Bin Hafizd",
+            "text2" : "اَلْفَاتِحَة"
         },
         {
             "text" : "لِصَا حِبِ اْلحِذْبِ مَوْ لاَنَااَبِےالْمَدَارِسِ وَالْمَسَاجِدِمُؤَسَّسِ نَهْےضَةِالْوَطَنِ اَلشَّيْخِ مُحَمَّدَذَيْنِ الدَّيْنِ بْنِ عَبْدِالْمَجِيْدِاَلْفَنْشَوْرِيَّ وَلأُصُوْلِهِ وَفُرُوْعِهِ وَلِمُحِبَّيْهِ",
-            "translation_id" : "Untuk yang mulia penghimpun Hizib sebagai bapak pelopor madrasah dan masjid serta pendiri Nahdlatul Wathan, Tuan Guru kiai Haji Muhammad Zainuddin bin Abdul Majid AlPancori, kedua orang tuanya dan nenek moyangnya, dan keluarga serta para pencintanya"
+            "translation_id" : "Untuk yang mulia penghimpun Hizib sebagai bapak pelopor madrasah dan masjid serta pendiri Nahdlatul Wathan, Tuan Guru kiai Haji Muhammad Zainuddin bin Abdul Majid AlPancori, kedua orang tuanya dan nenek moyangnya, dan keluarga serta para pencintanya",
+            "text2" : "اَلْفَاتِحَة"
         }, {
             "text" : "لِجَمِيْعِ الْعُلَمَءِالْعَامِلِيْنَ وَالْأَوْلِيَاءِالْعَارِفِيْنَ وَلِوَالِدِيْنَاوَلِمَشَايِحِنَ وَلِلنَّهْضِيَّيْنَ وَالنَّهْضِيَّاتِ وَلِجَمِيْعِ الْمُسْلِمَاتِ",
-            "translation_id" : "Untuk para Ulama' yang shalih,Auliya' Allah, orang tua dan guru kita, seluruh keluarga Nahdlatul Wathan dan ummat Islam (laki-laki dan perempuan)"
+            "translation_id" : "Untuk para Ulama' yang shalih,Auliya' Allah, orang tua dan guru kita, seluruh keluarga Nahdlatul Wathan dan ummat Islam (laki-laki dan perempuan)",
+            "text2" : "اَلْفَاتِحَة"
         }] 
     },
     {
         "name" : "Ya Rabbi Shalli",
-        "verses" : [{
-            "text" : "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-            "translation_id" : "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang"
+        "verses" : [ {
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْ يَارَبِّ صَلِّ عَلَيْهِ وَسَلِّمْ",
+            "translation_id" : "Ya Allah, Limpahkanlah Rahmat Dan Keselamatan Untuk Nabi Muhammad"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْحَبِيْبِكَ الشَّافِعِ الْمُشَفَّعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْحَبِيْبِكَ الشَّافِعِ الْمُشَفَّعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Kekasih-Mu Pemilik Syafa'at Yang Dilimpahi Syafa'at-Mu"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْأَعْلَی الْوَرَی رُتْبَةًوَأَرْفَعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْأَعْلَی الْوَرَی رُتْبَةًوَأَرْفَعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Semua-Mulia Ciptaan, Dalam Keagungan dan Derajatnya"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْأَسْمَى الْبَرَايَاجَاهًاوَأَوْسَعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْأَسْمَى الْبَرَايَاجَاهًاوَأَوْسَعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Makhluk Yang Termulia Kedudukannya, Melebihi Segenap Ciptaan"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاسْلُكْ بِنَارَبَّ خَيْرَمَهْيَعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْوَاسْلُكْ بِنَارَبَّ خَيْرَمَهْيَعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Jalankanlah Kami Wahai Tuhan Ke Jalan Yang Paling Benar (Jalan Nabi-Mu)"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَعَافِنَاوَاشْفِ كُلَّ مُوْجَعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْوَعَافِنَاوَاشْفِ كُلَّ مُوْجَعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Sembuhkanlah Kami Dari Segala Keluhan Penyakit"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَأَصْلِحِ الْقَلْبَ وَاعْفُ وَانْفُعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْوَأَصْلِحِ الْقَلْبَ وَاعْفُ وَانْفُعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Perbaikilah Hati dan Maafkanlah, dan Berilah Kami (Segala Yang) Manfaat"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاكْفِ الْمَعَادِيْ وَاصْرِفْهُ وَارْدَعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْوَاكْفِ الْمَعَادِيْ وَاصْرِفْهُ وَارْدَعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Bentengilah Dari Yang Sedang Memusuhi Kami dan Hindarkanlah Kami Dari Musuh Yang Datang Kepada Kami"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْنَحُلُّ فِی حِصْنِكَ الْمُمَنَّعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْنَحُلُّ فِی حِصْنِكَ الْمُمَنَّعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Kami Berlindung Di Dalam Benteng-Mu Yang Melindungi Dari Segala Gangguan"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْرَبَّ ارْضَ عَنَّارِضَاكَ الاَرْفَعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْرَبَّ ارْضَ عَنَّارِضَاكَ الاَرْفَعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Ya Allah Ridhoillah Kami Dengan Keridhoan-Mu Yang Agung"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْوَاجْعَلْ لَنَ فِی الْجِنَانِ مَجْمَعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْوَاجْعَلْ لَنَ فِی الْجِنَانِ مَجْمَعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Jadikanlah Kami Berkumpul Dengan Nabi-Mu Di Surga"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْرَافِقْ بِنَاخَيْرَخَلْقِكَ أَجْمَعْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْرَافِقْ بِنَاخَيْرَخَلْقِكَ أَجْمَعْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Jadikanlah Kami Selalu Berdampingan Dengan Sebaik-Baik Ciptaan-Mu"
         }, {
-            "text" : "يَارَبَّ صَلَّ عَلَی مُحَمَّدْيَارَبَّ صَلَّ عَلَيْهِ وَسَلَّمْ",
+            "text" : "يَارَبِّ صَلِّ عَلَی مُحَمَّدْيَارَبَّ صَلَّ عَلَيْهِ وَسَلَّمْ",
             "translation_id" : "Ya Allah Limpahkanlah Shalawat Atas Muhammad, Ya Allah Limpahkanlah Shalawat Atasnya Serta Salam Sejahtera"
         }, {
             "text" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
@@ -70,33 +74,25 @@
         "verses" : [
             {
                 "text" : "السَّلاَمُ عَلَيْكَ زَيْنَ الأَنْبِيَاءِ",
-                "translation_id" : "Salam Sejahtera Bagimu Wahai Nabi Yang Paling Mulia"
+                "translation_id" : "Salam Sejahtera Bagimu Wahai Nabi Yang Paling Mulia",
+                "text2" : "السَّلاَمُ عَلَيْكَ",
+                "translation_id2" : "Salam Sejahtera Bagimu"
             }, {
                 "text" : "السَّلاَمُ عَلَيْكَ أَتْقَی الأَتْقِيَاءِ",
-                "translation_id" : "Salam Sejahtera Bagimu Wahai Para Pemimpin Orang-Orang Yang bertakwa"
+                "translation_id" : "Salam Sejahtera Bagimu Wahai Para Pemimpin Orang-Orang Yang bertakwa",
+                "text2" : "السَّلاَمُ عَلَيْكَ",
+                "translation_id2" : "Salam Sejahtera Bagimu"
             }, {
-                "text" : "السَّلاَمُ عَلَيْكَ يَانُوْرَالظَّلاَمِ",
-                "translation_id" : "Salam Sejahtera Bagimu Wahai Cahaya Yang Menerangi Kegelapan"
+                "text" : "السَّلاَمُ عَلَيْكَ أَزْكَی الْأَزْكِيَاءِ",
+                "translation_id" : "Salam Sejahtera Bagimu Wahai Engkau Yang Paling Cerdas Di Antara Orang-Orang Cerdas",
+                "text2" : "السَّلاَمُ عَلَيْكَ",
+                "translation_id2" : "Salam Sejahtera Bagimu"
             }, {
-                "text" : "السَّلاَمُ عَلَيْكَ أَصْفَی الأَصْفِيَاءِ",
-                "translation_id" : "Salam Sejahtera Bagimu Wahai Pemimpin Orang - Orang Sufi"
+                "text" : "السَّلاَمُ عَلَيْكَ كَ أَنْتَ لْأَزْكِيَاءِ",
+                "translation_id" : "Salam Sejahtera Bagimu Sebagaimana Kamu Bijaksana",
+                "text2" : "السَّلاَمُ عَلَيْكَ",
+                "translation_id2" : "Salam Sejahtera Bagimu"
             }, {
-                "text" : "السَّلاَ مُ عَلَيْكَ طٰهَ يَاطَبيْبِيْ",
-                "translation_id" : "Salam Sejahtera Bagimu Wahai Thaahaa, Wahai Pelipur Hatiku"
-            }, {
-                "text" : "السَّلاَ مُ عَلٰی الْمُشَفَّعِ فِی الْقِيَا مَةِ",
-                "translation_id" : "Salam Sejahtera Atas Pemberi Syafaat Di Hari Kiamat"
-            }, {
-                "text" : "السَّلاَ مُ عَلٰی الْمُظَلَّلِ بِا لْغَمَا مَةِ",
-                "translation_id" : "Salam Sejahtera Atas Pemimpin Yang Terkemuka"
-            }, {
-                "text" : "السَّلاَ مُ عَلٰی الْمُشَفَّعِ فِی الْقِيَامَةِ",
-                "translation_id" : "Salam Sejahtera Atas Pemberi Syafaat Di Hari Kiamat"
-            },{
-                "text" : "السَّلاَ مُ عَلٰی الْمُتَوَّجِ بِا لْكَرَامَةِ",
-                "translation_id" : "Salam Sejahtera Atas Nabi Yang Senantiasa Dinaungi Oleh Awan"
-            },
-            {
                 "text" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
                 "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
             }
@@ -128,12 +124,7 @@
         "verses" : [
             {
                 "text" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
-                "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya",
-                "text2" : "صَلَّى اللّٰهُ عَلَيْهِ",
-                "translation_id2" : "Semoga Allah Memberikan Sholawat"
-            }, {
-                "text" : "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-                "translation_id" : "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang"
+                "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
             },
             {
                 "text" : "الْحَمْدُلِلَّهِ الَّزِيْ هَدَانَابِعَبْدِهِ الْمُخْتَارِمَنْ دَعَانَا",
@@ -207,15 +198,11 @@
         "verses" : [
             {
                 "text" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
-                "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya",
-                "text2" : "صَلَّى اللّٰهُ عَلَيْهِ",
-                "translation_id2" : "Semoga Allah Memberikan Sholawat"
+                "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
             },
             {
                 "text" : "نَبَّأَنَااللّٰهُ فَقَالَ جَاءَكُمْ نُوْرٌفَسُبْحَانَ الَّزِيْ أَنْبَانَا",
-                "translation_id" : "Maka Telah Datang Kabar Dari Yang Berfirman : Telah Datang Kepadamu Cahaya... (QS Al Maidah : 15), Maha Suci Yang Telah Mengabarkannya Kepada Kita",
-                "text2" : "صَلَّى اللّٰهُ عَلَيْهِ",
-                "translation_id2" : "Semoga Allah Memberikan Sholawat"
+                "translation_id" : "Maka Telah Datang Kabar Dari Yang Berfirman : Telah Datang Kepadamu Cahaya... (QS Al Maidah : 15), Maha Suci Yang Telah Mengabarkannya Kepada Kita"
             },{
                 "text" : "وَالنُوْرُطَهَ عَبْدُهُ مَنَّ بِهِ فِی زِكْرِهِ أَعْظِمْ بِهِ مَنَّانَا",
                 "translation_id" : "Dan Cahaya Thaahaa Hamba-Nya, terlimpahkan dengan mengingatnya (saw), maka Agungkanlah Sang Pemberi Anugerah"
@@ -259,17 +246,6 @@
         "name" : "Nurul Musthofa",
         "verses" : [
             {
-                "text" : "حَبِيْبِ مُحَمّدْ",
-                "translation_id" : "Kekasihku, Nabi Muhammad"
-            }, {
-                "text" : "مُحَمَّدْ مُحَمَّدْ",
-                "translation_id" : "Nabi Muhammad, Nabi Muhammad"
-            },
-            {
-                "text" : "حَيْرِالْمُرْسَلِيْنْ",
-                "translation_id" : "Utusan Yang Terbaik"
-            },
-            {
                 "text" : "نُوْرُالْمُصطَفَی نُوْرُالْمُصْطَفَی",
                 "translation_id" : "Cahaya Manusia Pilihan, Cahaya Manusia Pilihan"
             }, {
@@ -288,38 +264,32 @@
                 "text" : "حَبِيْبِيْ مُحَمَّدْ مُحَمَّدْمُحَمَّدْ خَيْرِالْمُرْسَلِيْنَ",
                 "translation_id" : "Nabi Muhammad, Muhammad, Muhammad Utusan Yang Terbaik"
             }, {
-                "text" : "نُوْ رُكَ الْوَاضََحْ مَالِكُ الْأَرْوَاحْ",
-                "translation_id" : ""
+                "text" : "نُوْ رُكَ الْوَاضَحْ مَالِكُ الْأَرْوَاحْ",
+                "translation_id" : "Cahaya Mu Yang Terang Raja Para Arwah"
             }, {
-                "text" : "كَمْ مُحِبَّ الرَّ حِيْلَ الْحَرَمَيْنَ",
-                "translation_id" : ""
+                "text" : "كَمْ مُحِبَّ الرَّ حِيْلَ الْحَرَمِيْنَ",
+                "translation_id" : "Sungguh Berapa Banyak Para Pencinta Perjalanan Ke Haromain (Mekah Dan Madinah)"
             }, {
                 "text" : "حَبِيْبِيْ مُحَمَّدْ مُحَمَّدْمُحَمَّدْ خَيْرِالْمُرْسَلِيْنَ",
-                "translation_id" : ""
+                "translation_id" : "Nabi Muhammad, Muhammad, Muhammad Utusan Yang Terbaik"
             }, {
                 "text" : "كَفَاكَ فَضْلاً فیِ الْعُلَی الْأَعْلَی",
-                "translation_id" : ""
+                "translation_id" : "Cukup Bagimu Keutamaan Didalam Ketinggian Yang Tinggi"
             }, {
                 "text" : "دَنَافَتَدَلَّ قَابَ قَوْسَيْنِ",
-                "translation_id" : ""
+                "translation_id" : "Mendekatlah Yang Turun, Mendekatlah Dua Anak Panah"
             }, {
                 "text" : "حَبِيْبِيْ مُحَمَّدْ مُحَمَّدْمُحَمَّدْ خَيْرِالْمُرْسَلِيْنَ",
                 "translation_id" : "Nabi Muhammad, Muhammad, Muhammad Utusan Yang Terbaik"
             }, {
-                "text" : "يَااللّٰهُ يَابَدِيعْ بَلَّغْنَا جَمِيعْ ",
+                "text" : "يَااللّٰهُ يَابَدِيعْ بَلِّغْنَا جَمِيعْ ",
                 "translation_id" : "Ya Allah, Wahai Maha Pencipta, Sampaikan Seluruhnya"
             }, {
-                "text" : "حَضْرَ ۃَالشَفِيعْ خَيْرِالشَّقَلَينْ",
-                "translation_id" : ""
+                "text" : "حَضْرَ ۃَالشَفِيعْ خَيْرِالفَقَلَينْ",
+                "translation_id" : "Yang Mulia Pemberi Syafaat Sebaik - Baik Perkataan"
             }, {
                 "text" : "حَبِيْبِيْ مُحَمَّدْ مُحَمَّدْمُحَمَّدْ خَيْرِالْمُرْسَلِيْنَ",
                 "translation_id" : "Nabi Muhammad, Muhammad, Muhammad Utusan Yang Terbaik"
-            }, {
-                "text" : "يَاخَيْرَمُعْطِی أَوْصِلْ سَلاَتِيْ",
-                "translation_id" : ""
-            }, {
-                "text" : "لِلسَّرَّالزَاتِ نُوْ رِالْكَوْ سَيْنِ",
-                "translation_id" : ""
             }, {
                 "text" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
                 "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
@@ -381,17 +351,17 @@
                 "text" : "يَا بَحْرَ فَضْلِ وَتَاجَ عَدْلِ * جُدْلِ بِوَصْلٍ قَبْلَ الْمَنِيَّةْ",
                 "translation_id" : "Wahai Nabi Yang Kemuliaannya Bagai Lautan Dan Ia Bermahkota Keadilan, Sudilah Kiranya Engkau Temui Aku Sebelum Ajalku Tiba"
             }, {
+                "text" : "كَمْ ذَا أُنَادِيْ يَا خَيْرَ هَادِي * يَكْفِى عِبَادِيْ يَا نُورْ عَيْنَيَّا",
+                "translation_id" : "Berapa Kali Sudah Aku Memanggilmu, Wahai Sebaik-Baik Pemberi Petunjuk, Sudah Cukup Jauh Aku Darimu Wahai Cahaya Kedua Mataku"
+            }, {
                 "text" : "حَاشَا كَ تَغْفُلْ عَنَّا وَتَبْخَلْ * يَا خَيْرَ مُرْسَلْ إِرْحَمْ شَجِيَّا",
                 "translation_id" : "Janganlah Engkau Lupa Dan Tidak Mengenal Kami, Sudahilah Kiranya Engkau Temui Aku Sebelum Ajalku Tiba"
             }, {
-                "text" : "كَمْ ذَا أُنَادِيْ يَا خَيْرَ هَادِي * يَكْفِى عِبَادِيْ يَا نُوْر عَيْنَيَّا",
-                "translation_id" : "Berapa Kali Sudah Aku Memanggilmu, Wahai Sebaik-Baik Pemberi Petunjuk, Sudah Cukup Jauh Aku Darimu Wahai Cahaya Kedua Mataku"
-            }, {
-                "text" : "صَلاَةُ رَبَّيْ عَلَيْكَ حِبَّيْ * مَادَامَ قَلْبِي بِذِكْرِ حَيَّا",
-                "translation_id" : ""
+                "text" : "صَلاَةُ رَبِّيْ عَلَيْكَ حِبِّيْ * مَادَامَ قَلْبِي بِذِكْرِ حَيَّا",
+                "translation_id" : "Sholawat Tuhanku Kepada Kekasihku, Hatiku Selalu Hidup Mengingatnya"
             }, {
                 "text" : "كَذَا سَلاَمِيْ عَلَى الدَّوَامِ * عِنْدَ الصَّلاَحِيْ مَعَ الأَتِيَّةٌ",
-                "translation_id" : ""
+                "translation_id" : "Jadi damaiku selalu, ketika baik dengan yang berikut ini"
             }, {
                 "text" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
                 "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
@@ -405,7 +375,7 @@
                 "text" : "لَمَّا دَنَا وَقْتُ الْبُرُوْزِ لِأَحْمَدٍ عَنْ إِذْنِ مَنْ مَاشَاءَهُ قَدْ كَانَا",
                 "translation_id" : "Ketika Telah Dekat Waktu Kelahiran Ahmad (SAW) Dari Izin-Nya, Yang Apabila Menghendaki Sesuatu Tidaklah Akan Terhalang"
             }, {
-                "text" : "حَمَلَتْ بِهِ الْأَمِيْنَةُ بِيْتُ وَهْبٍٍ مَنْ لَهَاأَعْلَى الِْإلَهُ مَكَانَا",
+                "text" : "حَمَلَتْ بِهِ الْأَمِيْنَةُ بِيْتُ وَهْبٍ مَنْ لَهَاأَعْلَى الْإِلٰهُ مَكَانَا",
                 "translation_id" : "Ia (SAW) Berada Di Dalam Kandungan Sang Ibu Aminah Binti Wahb, Yang Baginya Telah Allah Muliakan Martabatnya (Sebagai Ibu Bagi Sebaik-Baik Ciptaan)"
             }, {
                 "text" : "مِنْ وَالِدِ الْمُخْتَارِ عَبْدِ اللّٰهِ بِنْ عَبْدٍ لِمُطَّلِبٍ رَأَى الْبُرْهَانَا",
@@ -432,13 +402,13 @@
                 "text" : "وَبِهَاأَحَاطَ اللُّطْفُ مِنْ رَبَّ السَّمَا أَقْصَى الأَذَى وَالْهَمَّ وَالْأَحْزَانَا",
                 "translation_id" : "Baginya (Aminah RA) Selubung Kelembutan Dari Allah Pemelihara Langit, Hilanglah Segala Gangguan, Kegelisahan Dan Kesedihan"
             }, {
-                "text" : "وَرَأَتْ كَمَا قَدْ جَاءَ مَا عِلْمَتْ بِهِ أَنَّ الْمُهَيْمِنَ شَرَّفَ الَْأكْوَانَا",
+                "text" : "وَرَأَتْ كَمَا قَدْ جَاءَ مَا عِلْمَتْ بِهِ أَنَّ الْمُهَيْمِنَ شَرَّفَ الْأَكْوَانَا",
                 "translation_id" : "Kemudian Ia (Aminah RA) Menyaksikan Sebagaimana Yang Telah Diketahuinya, Bahwa Yang Maha Pemelihara Telah Memuliakan Alam Semesta"
             }, {
                 "text" : "بِالطُّهْرِ مَنْ فیِ بَطْنِهَا فَاسْتَبْشَرَتْ وَدَنَاالْمَخَاضُ فَأُتْرِعَتْ رِضْوَانَا",
                 "translation_id" : "Dengan Kesucian Bayi Di Dalam Kandungannya, Maka Iapun Bergembira Ketika Telah Dekat Saat "
             }, {
-                "text" : "وَتَجَلَّتْ الَْأنْوَارُ مِنْ كُلَّ الْجِهَا تِ فَوَقْتُ مِيْلاَدِالْمُشَفَّعِ حَانَا",
+                "text" : "وَتَجَلَّتِ الْأَنْوَارُ مِنْ كُلَّ الْجِهَا تِ فَوَقْتُ مِيْلاَدِالْمُشَفَّعِ حَانَا",
                 "translation_id" : "Maka Muncullah Cahaya-Cahaya Dari Segala Penjuru Dan Detik Kelahiranpun Tiba"
             }, {
                 "text" : "وَقُبَيْلَ فَجْرٍ أَبْرَزَتْ شَمْسَ الْهُدَى ظَهَرَ الْحَبِيْبُ مُكَرَّمًاوَمُصَانَا",
@@ -450,32 +420,32 @@
         "name" : "Mahallul Qiyam",
         "verses" : [
             {
-                "teks" : "صَلَّى اللّٰهُ عَلَى مُحَمَّدْ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمْ",
-                "translation_id" : "Bershalawat Allah Kepada (Nabi) Muhammad Bershalawat Allah Padanya Dan Memberi Salam Sejahtera"
-            }, {
                 "teks" : "يَانَبِيْ سَلاَمْ عَلَيْكَ  يَارَسُولْ سَلاَمْ عَلَيْكَ",
                 "translation_id" : "Wahai Nabi Salam Sejahtera Bagimu, Wahai Rasul Salam Sejahtera Bagimu"
             }, {
-                "teks" : "يَاحَبِيبْ سَلَامُ عَلَيْكَ  صَلَوَاتُ اللّٰه عَلَيْكَ",
-                "translation_id" : "Wahai Kekasih Salam Sejahtera Bagimu, Shalawat Allah Bagimu"
+                "teks" : "يَاحَبِيبْ سَلَامُ عَلَيْكَ يَارَسُوْلَ اللّٰه  صَلَوَاتُ اللّٰه عَلَيْكَ",
+                "translation_id" : "Wahai Kekasih Salam Sejahtera Bagimu Utusan Allah (Nabi Muhammad SAW), Shalawat Allah Bagimu"
             }, {
                 "teks" : "أَبْرَزَاللّٰهُ الْمُشَفَّعْ  صَاحِبَ الْقَدْرِالْمُرَفَّعْ",
                 "translation_id" : "Telah Tiba Dengan Kehendak Allah Sang Pemberi Syafa'at, Yang Memiliki Derajat Yang Dimuliakan"
             }, {
-                "teks" : "فَمَلَا نُّوْرُالنَّوَاحِيْ  عَمَّ كُلَّ الْكَوْنِ أَجْمَعْ",
-                "translation_id" : "Maka Limpahan Cahaya Memenuhi Segala Penjuru, Meliputi Seluruh Alam Semesta"
+                "teks" : "فَمَلَا نُّوْرُالنَّوَاحِيْ بِرَسُولِ اللّٰهِ  عَمَّ كُلَّ الْكَوْنِ أَجْمَعْ",
+                "translation_id" : "Maka Limpahan Cahaya Memenuhi Segala Penjuru Demi Rasulullah, Meliputi Seluruh Alam Semesta"
             }, {
                 "teks" : "نُكِسَتْ أَصْنَامُ شِرْكٍ  وَبِنَاالشِّرْكِ تَصَدَّعْ",
                 "translation_id" : "Maka Berjatuhanlah Patung-Patung Berhala Di Ka'bah, Dan Tumbanglah Sendi-Sendi Kemusyirikian"
             }, {
-                "teks" : "وَدَنَاوَقْتُ الْهِدَايَةْ  وَحِمَى الْكُفْرِ تَزَعْزَعْ",
-                "translation_id" : "Maka Dekatlah Saat-Saat Petunjuk, Dan Benteng Kekafiranpun Berguncang"
+                "teks" : "وَدَنَاوَقْتُ الْهِدَايَةْ بِرَسُولِ اللّٰهِ  وَحِمَى الْكُفْرِ تَزَعْزَعْ",
+                "translation_id" : "Maka Dekatlah Saat-Saat Petunjuk Demi Rasulullah, Dan Benteng Kekafiranpun Berguncang"
             }, {
-                "teks" : "مَرْحَبًاأَهْلًاوَسَهْلًا  بِكَ يَاذَالْقَدْرِالَْأرْفَعْ",
+                "teks" : "مَرْحَبًاأَهْلًاوَسَهْلًا  بِكَ يَاذَالْقَدْرِالْأَرْفَعْ",
                 "translation_id" : "Salam Sejahteralah Atas Kedatanganmu, Wahai Sang Pemilik Derajat Yang Mulia"
             }, {
-                "teks" : "يَاإِمَامَ اهْلِ الرِّسَالَةْ  مَنْ بِهِ الْآفَاتُ تُدْفَعْ",
-                "translation_id" : "Wahai Imam Dan Pemimpin Para Rasul, Yang Dengannya (SAW) Bencana - Bencana Tertolakkan"
+                "teks" : "يَاإِمَامَ اهْلِ الرِّسَالَةْ يَارَسُوْلَ اللّٰه  مَنْ بِهِ الْآفَاتُ تُدْفَعْ",
+                "translation_id" : "Wahai Imam Dan Pemimpin Para Rasul Utusan Allah (Nabi Muhammad SAW), Yang Dengannya (SAW) Bencana - Bencana Tertolakkan"
+            }, {
+                "teks" : "مَرْحَبًايَانُوْرَالعَيْنِ مَرْحَبًا  مَرْحَبًاجَدَّالْحُسَيْنِ مَرْحَبًا",
+                "translation_id" : "Selamat Datang Wahai Cahaya Mataku, Selamat Datang Wahai Kakeknya Husain"
             }, {
                 "teks" : "أَنْتَ فِي الْحَشْرِ مَلَاذٌ  لَكَ كُلُّ الْخَلْقِ تَفْزَعْ",
                 "translation_id" : "Engkaulah Satu-Satunya Harapan Di Hari Kiamat, Kepadamulah Seluruh Ciptaan Berlindung Dari Kemurkaan Allah"
@@ -483,10 +453,13 @@
                 "teks" : "وَيُنَادُوْنَ تَرَى مَا  قَدْدَهَامِنْ هَوْلٍ أَفْظَعْ",
                 "translation_id" : "Kemudian Mereka Datang Memanggil-Manggilmu Dengan Penuh Harapan, Ketika Menyaksikan Dahsyatnya Kesulitan Dan Rintangan"
             }, {
-                "teks" : "مَرْحَبًايَانُوْرَالعَيْنِ مَرْحَبًا  مَرْحَبًاجَدَّالْحُسَيْنِ مَرْحَبًا",
-                "translation_id" : "Selamat Datang Wahai Cahaya Mataku, Selamat Datang Wahai Kakeknya Husain"
+                "teks" : "طَلَعَ الْبَدْرُعَلَيْنَ مِنْ شَنِيَّةِالْوَدَاعْ",
+                "translation_id" : "Telah Terbit Bulan Purnama Keatas Kami, Dari Jalan Yang Bernama Wada (Perpisahan)"
             }, {
-                "teks" : "فَلَهَاأَنْتَ فَتَسْجُدْ  وَتُنَادَى اشْفَعْ تُشَفَّعْ",
+                "teks" : "وَجَبَ الشُّكْرُعَلَيْنَامَادَعَالِلّٰهِ دَاعِ",
+                "translation_id" : "Wajiblah Kami Bersyukur Kepadanya, Selama Ada Orang Yang Menyeru Ke Jalan Allah"
+            }, {
+                "teks" : "فَلَهَاأَنْتَ فَتَسْجُدْ  وَتُنَادَى اشْفَعْ",
                 "translation_id" : "Maka Atasmu Limpahan Shalawat Dari Allah, Selama Cahaya Masih Bersinar Terang Benderang"
             }, {
                 "teks" : "فَعَلَيْكَ اللّٰهُ صَلَّى  مَابَدَى النَّوْرُوَشَعْشَعْ",
@@ -495,205 +468,16 @@
                 "teks" : "وَبِكَ الرَّحْمَنُ نَسْأَلْ  وَإِلَهُ الْعَرْشِ يَسْمَعْ",
                 "translation_id" : "Wahai Pemberi Anugerah Yang Mulia, Wahai Tuhan, Kumpulkanlah Kami Dengan AlMusthafa (SAW)"
             }, {
-                "teks" : "َرَبِّ فَاغْفِرْلِيْ ذُنُوْبِيْ يَااَللّٰه   بِبَرْكَةَالْهَادِى الْمُشَفَّعْ يَااللّٰه",
-                "translation_id" : "Wahai Tuhanku Ampunkanlah Dosa-Dosaku, Dengan Berkat Petunjuk Pemberi Syafa'at"
-            }, {
-                "teks" : "يَاعَظِيْمَ الْمَنِّ يَارَبْ  شَمْلَنَابِالْمُصْطَفَى اجْمَعْ",
-                "translation_id" : "Wahai Maha Pemberi Anugerah Wahai Rabb, Kumpulkanlah Kepribadian Kami Dengan Al-Musthafa (SAW)"
-            }, {
-                "teks" : "وَبِهِ فَانْظَرْإِلَيْنَا  وَاعْطِنَابِهِ كُلَّ مَطْمَعْ",
-                "translation_id" : "Dan Dengannya (SAW), Maka Pandangilah Kami Kasih Sayag-Mu Dan Berilah Kami Dengannya (Kami Menjadikannya Perantara SAW) Segala Yang Kami Inginkan"
-            }, {
-                "teks" : "وَاكْفِنَاكُلَّ الْبَلَايَا  وَادْفَعْ الْآفَاتِ وَرْفَعْ",
-                "translation_id" : "Dan Hindarkanlah Kami Dari Segala Bencana, Dan Musnahkanlah Segala Kesulitan, Dan Angkatlah Sejauh-Jauhnya"
-            }, {
                 "teks" : "صَلَّى اللهُ عَلَى مُحَمَّدْ  صَلَّى اللهُ عَلَيْهِ وَسَلَّمْ",
                 "translation_id" : "Bershalawat Allah Kepada (Nabi) Muhammad Bershalawat Allah Padanya Dan Memberi Salam Sejahtera"
             }, {
-                "teks" : "وَاسْقِنَايَارَبْ أَغِثْنَا  بِحَيَّاهَطَالِ يَهْمَعْ",
-                "translation_id" : "Dan Siramlah Kami (Dengan Rahmatmu) Wahai Rabb Tolonglah Kami Dengan Kehidupan Yang Di Curahi Lebatnya Hujan Rahmat-Mu"
+                "teks" : "ﻳَﺎ ﻧَﺒِﻲْ ﺳَﻼَﻡْ ﻋَﻠَﻴْﻚَ  ﻳَﺎﺭَﺳُﻮﻝْ ﺳَﻼَﻡْ ﻋَﻠَﻴْﻚَ",
+                "translation_id" : "Wahai Nabi, Salam Sejahtera Untukmu, Wahai Rosul Salam Sejahtera Untukmu"
             }, {
-                "teks" : "وَخْتِمِ الْعُمْرَبِحُسْنَى  وَحْسِنِ الْعُقْبَى وَمَرْجَعْ",
-                "translation_id" : "Dan Akhirlah Usia Kami Dengan Khusnul Khatimah Dan Perbaiklah Keadaan Yang Akan Datang Dan Saat Kami Kembali Kepada-Mu"
-            }, {
-                "teks" : "وَصَلَاةُاللّٰهِ تَغْشَى  مَنْ لَهُ الْحُسْنُ تَجَمَّعْ",
-                "translation_id" : "Dan Terlimpah Shalawat Allah Bagi Yang Terkumpul Padanya (SAW) Segala Kebaikan"
-            }, {
-                "teks" : "أَحْمَدَالطَّهْرَوَآلِهِ  وَالصَّحَابَةمَاالسَّنَاشَعْ",
-                "translation_id" : "Ahmad (SAW) Yang Suci Dan Keluarganya, Serta Para Sahabatnya Dengan Shalawat Yang Selalu Bergahaya Terbang Benderang"
+                "teks" : "ﻳَﺎﺣَﺒِﻴﺐْ ﺳَﻼَﻡْ ﻋَﻠَﻴْﻚَ  ﺻَﻠَﻮَﺍﺕُ ﺍﻟﻠّٰﻪ ﻋَﻠَﻴْﻚَ",
+                "translation_id" : "Wahai Kekasih, Salam Sejahtera Untukmu Dan Sholawat (rohmat) Allah Untukmu"
             }, {
                 "teks" :"اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
-                "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
-            }
-        ]
-    },
-    {
-        "name" : "Wulidal Habib",
-        "verses" : [
-            {
-                "teks" : "وُلِدَالْحَبِيْبُ فَخَرَّحَالاًسَاجَدًا  لِلّٰهِ مَنْ أَنْشَانَاوَبَ رَانَا",
-                "translation_id" : "Ketika Telah Lahir Sang Kekasih (SAW), Maka Beliau (SAW) Tunduk Bersujud Kepada Allah Yang Telah Menghidupkan Serta Menciptakan Kita"
-            }, {
-                "teks" : "وَرِعَايَةُالْمَوْلَى تُحِيْطُ بِأَحْمَدٍ  فِيْ كُلِّ حِيْنٍ بَاطِنًاوَعَيَانَا",
-                "translation_id" : "Dan Bimbingan Sang Pencipta Selalu Menaungi Ahmad (SAW) Setiap Waktu, Secara Sembunyi Dan Terlihat Terang-Terangan"
-            }, {
-                "teks" : "قَدْأَرْضَعَتْهُ الْأُمُّ شُمَّ شُوَيْبَةٌ  وَحَلِيْمَةٌمَنْ سُعْدُهَاقَدْبَانَا",
-                "translation_id" : "Beliau (SAW) Disusui Oleh Ibunya Dan Diteruskan Oleh Tsuwaibah (RA) Kemudian Halimah (RA), Yang Mendapatkan Kabar Gembira Bahwa Ia Akan Masuk Surga"
-            }, {
-                "teks" : "قَدْبَشَّرَتْ شُوَيْبَةٌسَيِّدَهَا  أَبَا لَهَبٍ أَعْتَقَهَافَرْحَانَا",
-                "translation_id" : "Dan Ketika Tsuwaibah Menyampaikan Berita Kepada Tuannya (Tentang Kelahiran Muhammad), Maka Abu Lahab Memerdekakannya Sebagai Tanda Sukacita"
-            }, {
-                "teks" : "لَمْ يَنْسَ خَالِقُنَالَهُ فَرْ حَتَهُ  بِالْمُصْطَفَی وَبِزَالْحَدِيْثُ أَتَانَا",
-                "translation_id" : "Tidaklah Tuhan Yang Maha Pencipta Lupa Atas Kegembiraannya (Abu Lahab) Dengan Kelahiran Musthafa (SAW), Sebagaimana Tercantum Dalam Hadits (Riwayat Abbas Bin Abdul Muthalib RA, Di Shahih Bukhari)"
-            }, {
-                "teks" :"أَنَّ الْعَزَابَ مُخَفَّفٌ فِيْ كُلِّ  إِشْنَيْنٍ لِفَرْحَتِهِ بِمَنْ وَافَانَا",
-                "translation_id" :"Bahwa Siksaan Abu Lahab Diringankan Pada Setiap Hari Senin, Atas Kegembiraannya Atas Kegembiraannya Atas (Kelahiran) Yang Telah Menunaikan Kewajibannya Kepada Kita"
-            }, {
-                "teks" : "هٰزَامَعَ الْكُفْرِفَكَيْفَ بِفَرْحَةٍ  مِنْ زِيْ فُؤَادٍإِمْتَلَاإِيْمَانَا",
-                "translation_id" : "Demikianlah Rahmat Allah Terhadap Orang Seorang Kafir, Maka Tak Terbayangkan (Anugerah) Ketika Kegembiraan Dari Seorang Mukmin Yang Hatinya Dipenuhi Dengan Keimanan"
-            }, {
-                "teks" : "وَرَأَتْ حَلِيْمَةُمَارَأَتْ مِنْ بَرَكَاتِ  مُحَمَّدٍ مَاحَيَّرَالْأَزْهَانَا",
-                "translation_id" : "Maka Halimah (RA) Menyaksikan Sedemikian Banyak Kejadian Dari Keberkahan Muhammad (SAW) Yang Tak Mampu Diterima Logika"
-            }, {
-                "teks" : "دَرَّلَهُ الشَّدْيُ وَقَدْكَانَ ابْنُهَا  يَبِيْتُ يَبْكِيْ مُسْغَبًاجَيْعَانَا",
-                "translation_id" : "Diantaranya Mengalir Air Susunya (Halimah RA), Yang Sebelumnya Anaknya Tak Pernah Berhenti Menangis (Karena Lapar Sebab Air Susunya Tak Mengalir Sama Sekali Karena Iapun Kelaparan)"
-            }, {
-                "teks" : "لَكِنَّهُ لَيْلَةَأَنْ جَاءَالْحَبِيْبٌ  بَاتَ مَوْفُوْرَالرِّضٰ شَبْعَ انَا",
-                "translation_id" : "Akan Tetapi Malam Itu, Sejak Kedatangan Sang Kekasih (SAW), Putranya (Putra Kandung Halimah RA) Tidur Pulas Dan Kenyang, (Karena AIR Susunya Mengalir Dengan Derasnya)"
-            }, {
-                "teks" : "وَدَرَّتِ النَّاقَةُأَلْبَانًاوَقَدْ  سَمْنَتْ دُوَيْبَتُهَافَكَانَاشَانَا",
-                "translation_id" : "Dan Mengalir Pulalah Air Susu Ontanya, Lalu Menjadi Kuat Dan Sehat, Dan Hal Ini Meneruskan Hal Yang Menakjubkan"
-            }, {
-                "teks" : "أَنْكَرَهُ رِفْقَتُهَاوَسَلَّمَتْ  أَشْجَارٌأَحْجَارٌعَلَی مَوْلَانَا",
-                "translation_id" : "Hal Ini Membingungkan Teman - Teman Yang Bersamanya (Halimah RA), Dan Ia (Halimah RA) Mendengar Pula Ucapan Salam Sejahtera Dari Pepohonan Dan Bebatuan Kepada Pemimpin Kita (SAW)"
-            }, {
-                "teks" : "سُبْحَانَ مَنْ أَنْطَقَ أَشْجَارًاوَأَحْ  جَارًاتُحَيِّي الْمُصْطَفَی سُبْحَانَا",
-                "translation_id" : "Maha Suci Allah Yang Telah Membuat Pepohonan Dan Bebatuan Berbicara, Menyambut Nabi (SAW) Yang Terpilih, Maka Maha Sucilah Dia (SAW)"
-            }, {
-                "teks" : "يَارَبَّنَاصَلِّ وَسَلِّمْ دَائِمًا  عَلَی حَبِيْبِكَ مَنْ إِلَيْكَ دَعَانَا",
-                "translation_id" : "Wahai Tuhan Kami Limpahkanlah Shalawat Dan Salam Sejahtera Selamanya Pada Kekasih-Mu Yang Telah Menyeru Kami Kepada-Mu"
-            }, {
-                "teks" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
-                "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
-            }
-        ]
-    },
-    {
-        "name" : "Hadza Waqod Nasaal",
-        "verses" : [
-            {
-                "teks" : "هَزَاوَقَدْنَشَأَالْحَبِيْبُ بِسِيْرَۃٍ  مَرْضِيَّةٍوَمَاأَتَى عِصْيَانَا",
-                "translation_id" : "Maka Tumbuh Dewasalah Sang Kekasih Dengan Sejarah Kehidupan Yang Selalu Dalam Keridhoan Dan Tidaklah Beliau "
-            }, {
-                "teks" : "تَرْعَاهُ عَيْنُ اللّٰهِ مَنْ أَدَّبَهُ  أَحْسَنَ تَأْدِيْبَ النَّبِيْ إِحْسَانَا",
-                "translation_id" : "Terbimbing Dalam Pandangan Kelembutan Allah Yang Telah Mendidik Budi Pekertinya (SAW) Dengan Sebaik-Baik Budi Pekerti Kenabian"
-            }, {
-                "teks" : "فَنَشَاصَدُوْقًامُحْسِنًازَاعِفَّةٍ  وَفُتُوَّةٍوَأَمَانَةٍمِعْوَانَا",
-                "translation_id" : "Dan Kedewasannya (SAW) Hari Demi Hari Tumbuhlah Sifat Kejuruan, Sifat Budi Pekerti Mulia, Sifat Menjaga Kehormatan, Sifat Ksatria, Sifat Amanah, Sifat Bersahabat Dan Gemar Membantu"
-            }, {
-                "teks" : "زَاهِمَّةٍوَشَجَاعَةٍوَتَوَقُرٍ  وَمَكَارِمٍ لَاتَحْتَصِيْ حُسْبَانَا",
-                "translation_id" : "Pemilik Semangat, Keberanian, Tenang Dan Banyak Diam, Serta Segala Bentuk Sifat Mulia Yang Tak Terhitung Banyaknya"
-            }, {
-                "teks" : "دُعِيَ الْأَمِيْنُ وَهُوَفِيْ أَهْلِ السَّمَا  نِعْمَ الْأَمِيْنُ لَهُ الْمُهَيْمِنُ صَانَا",
-                "translation_id" : "Beliau (SAW) Digelari Al-Amin (Yang Tidak Pernah Berbohong) Dan Pada Penduduk Langit Ialah Ni'mal Amin (Sebaik-Baik Yang Tidak Pernah Berbohong) Dan Baginya (SAW) Yang Maha Memelihara Senantiasa Menaunginya"
-            }, {
-                "teks" : "زَهَبَتْ بِهِ الْأُمُّ تَزُوْرُأَبَاهُفِيْ  طَيْبَةَإِزْفِيْهَاالْحِمَامُ كَانَا",
-                "translation_id" : "Ibunya (SAW) Membawanya Untuk Menziarahi Pusara (Makam) AyahnyaDi Madinah Yang Tempat Itulah Ayahnya Menemui Ajalnya"
-            }, {
-                "teks" : "وَالْمُصطَفَی فِيْ بَطْنِهَاوَقَدْأَتَی  عَلَيْهِ سِتٌ مِنْ سِنِيْهِ الْآنَا",
-                "translation_id" : "Dan Nabi Pilihan (SAW Saat Ayahnya Wafat Itu) Masih Dalam Kandungan Ibunya, Dan Kejadian Ini Ketika Usianya Enam Tahun"
-            }, {
-                "teks" : "وَقَدْأَتَاهَاالْمَوْتُ حِيْنَ رُجُوْعِهَا  فَحَبَاهُ عَبْدُالْمُطَّلِبِ حَنَانَا",
-                "translation_id" : "Dan Wafatnya Ibunya Dalam Perjalanan Pulang, Maka Beliau (SAW) Diasuh Oleh Abdul Muthalib Dengan Penuh Kasih Sayang"
-            }, {
-                "teks" : "سَنَتَيْنِ وَافَاهُ الْحِمَامُُ فَضَمَّهُ  عَمٌّ مَلَاالْعَطْفُ عَلَيْهِ جَنَانَا",
-                "translation_id" : "Dua Tahun Kemudian Iapun Wafat (Abdul Muthalib), Maka Beliau (SAW) Diasuh Oleh Pamannya Abu Thalib Dengan Penuh Perhatian Dan Kelembutan"
-            }, {
-                "teks" : "خَطَبَتْهُ بِنْتُ خُوَيْلِدٍفِيْ الْخَمْسِ  وَالْعِشْرِيْنَ حَازَتْ بِالْمُشَفَّعِ شَانَا",
-                "translation_id" : "Beliau (SAW) Dilamar Oleh Khadijah Binti Khuwalid Saat Beliau (SAW) Berusia 25 Tahun Karena Ia (Khadijah) Telah Mendengar Keajaiban - Keajaiban Pada Diri Sang Pemberi Syafa'at (SAW)"
-            }, {
-                "teks" : "قَدْحَقَّقَ الْمَوْلَی لَهَاآمَالَهَا  نَالَتْسَلَامًاعَالِيًاوَمَكَانَا",
-                "translation_id" : "Maka Allah Mengabulkan Cita-Citanya, Lalu Ia (Khadijah RA) Mendapatkan Kesejahteraan Mulia Dan Martabat (Mulia)"
-            }, {
-                "teks" : "وَحَلَّ مُشْكِلَةًلِوَضْعِ الْحَجَ رِ  الْأَسْوَدِفِي الْكَعْبَةِحَيْثُ أَبَانَا",
-                "translation_id" : "Kemudian Beliau (SAW) Menyelesaikan Permasalahan Kesalahpahaman Saat Peletakan Hajar Aswad Setelah Diperbaruinya Ka'bah"
-            }, {
-                "teks" : "عَنْ سِعَةِالْعَقْلِ وَوَقّادِالْحِجَا  سُبْحَانَ مَنْ عَلَّمَهُ وَأَعَانَا",
-                "translation_id" : "Dan Keluasan Akal Jeniusnya (SAW) Dan Daya Fikir Kenabiannya (SAW) Yang Cerdas Dan Teliti, Maha Suci Allah Yang Telah Mengajarinya Dan Menaunginya (SAW)"
-            }, {
-                "teks" : "يَارَبَّنَاصَلِّ وَسَلِّمْ دَائِمًا  عَلَی حَبِيْبِكَ مَنْ إِلَيْكَ مَنْ إِلَيْكَ دَعَانَا",
-                "translation_id" : "Wahai Tuhan Kami Limpahkanlah Shalawat Dan Salam Sejahtera Selamanya, Pada Kekasih-Mu Yang Telah Menyeru Kami Kepada Mu"
-            }, {
-                "teks" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
-                "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
-            }
-        ]
-    },
-    {
-        "name" : "Wa Atahu Jibril",
-        "verses" : [
-            {
-                "teks" : "وَأَتَاهُ جِبْرِيْلُ بِوَحْيِ اللّٰهِ فِيْ  غَارِحِرَاءٍيَعْبُدُالرَّحْمٰنَ",
-                "translation_id" : "Maka Datanglah Pada Beliau (SAW) Jibril (AS) Membawa Wahyu Allah Di Gua Hira Ketika Beliau (SAW) Beribadah Kepada Allah Ar Rahman"
-            }, {
-                "teks" : "وَضَمَهُ الشَّلَاثَ ثُمَّ أَرْسَلَهُ  إِقْرَأْوَرَبُّكَ عَلَّمَ الْإِنْسَانَا",
-                "translation_id" : "Kemudian Jibril (AS) Memeluknya Sebanyak Tiga Kali Lalu Melepaskannya, (Dan Berkata) Bacalah Demi Tuhanmu Yang memberi Ilmu Pada Manusia"
-            }, {
-                "teks" : "فَدَعَاثَلَاثًافِيْ خَ فَافَأَتَاهُ  أَنْ اِصْدَعْ بِمَاتُؤْمَرْبِهِ إِعْلَانَا",
-                "translation_id" : "Lalu Beliau (SAW) Berdakwah Dengan Sembunyi - Sembunyi Selama Tiga Tahun Hingga Datangnya Perintah Menjelaskan Terang - Terangan Tentang Perintah Allah"
-            }, {
-                "teks" : "كَثُرَالْأَذَی وَهُوَالصَّبُوْرُلِرَبِّهِ  وَهُوَالشَّكُوْرُوَكَانَ لَايَتَوَانَی",
-                "translation_id" : "Maka Bertubi - Tubilah Gangguan, Sedangkan Beliau (SAW) Sangat Teramat Sabar Terhadap Ketentuan Tuhannya, Dan Beliau (SAW) Sangat Teramat Bersyukur Dan Tidak Ragu (Yatwaana : Maju Mundur Dalam Keraguan) Dalam Menjalankan Dakwahnya"
-            }, {
-                "teks" : "مَاتَتْ خَدِيْجَةُوَأَبُوْطَالِبٍ فِيْ  الْخَمْسِ يْنَ فَاشْتَدَّالْأَذَاءُفُنُوْنَا",
-                "translation_id" : "Kemudian Wafatlah Istrinya Khadijah (RA) Dan Abu Thalib (Pamannya SAW) Ketika Usianya (SAW) Genap 50 Tahun, Maka Semakin Dahsyatnya Gangguan Yang Beraneka Ragam"
-            }, {
-                "teks" : "وَأَتَی ثَ قِيْفًادَاءِيًافَرَمَوْهُ  بِالْأَحْجَارِبَلْ أَغْرَوْابِهِ الصِّبْيَانَا",
-                "translation_id" : "Maka Beliau (SAW) Berkunjung Ke (Bani) Tsaqifah (Tha'if) Untuk Berdakwah, Lalu Beliau (SAW) Dilempari Batu - Batu Bahkan Dikejar - Kejar Dan Dicemooh Oleh Anak - Anak"
-            }, {
-                "teks" : "مَلَكُ الْجِبَالِ أَتَی فَقَالَ أَطْبِقُهَا  فَقَالَ لَابَلْ أَرْتَجِي الْعُقْبَانَا",
-                "translation_id" : "Maka Datanglah Malaikat Penguasa Gunung Dan Berkata : Apakah Kutimpakan (Gunung Uhud) Di Atas Mereka ? (Bani Tsaqifah) Dan Beliau (SAW) Berkata : Tidak!, Bahkan Aku Berharap Yang Akan Hidup Di Kemudian Hari"
-            }, {
-                "teks" : "أَسْرَی بِهِ الْمَوْلَی وَصَلَّی خَلْفَهُ  الرُّسْلُ وَشَاهَدَبَرْزَخَاوَجِنَانَا",
-                "translation_id" : "Lalu Sang Maha Pencipta Memperjalankan Beliau (SAW) (Ke Masjidil Aqsha), Lalu Para Rasul Bermakmum Di Belakangnya, Yang Beliau (SAW) Kemudian Menyaksikan (Alam) Barzakh Dan Surga"
-            }, {
-                "teks" : "عَرَجَ الْحَبِيْبُ إِلَی اسَّمَوَاتِ الْعُلَی  وَالْعَرْشِ وَالْكُرْسِيْ رَأَی مَوْلَانَا",
-                "translation_id" : "Naiklah Sang Kekasih (SAW) Menembus Lapisan - Lapisan Langit Yang Tertinggi Dan Arsy Serta Al - Kursiy, Lalu Berjumpa Dengan Sang Maha Penciptanya"
-            }, {
-                "teks" : "وَالْإِذْنُ بِالْهِجْرَۃِجَاءَلِيَثْرِبٍ  فَبِهِ ازْدَهَی الْبَلَدُالْكَرِيْمُ وَزَانَا",
-                "translation_id" : "Maka Tibalah Izin Untuk Hijrahpun Ke Yastrib (Madinah) Yang Disitulah Terhiaskan Wilayah Mulia Dan Terindahkan (Dengan Hari - Hari Kenabian Beliau SAW)"
-            }, {
-                "teks" : "فَاقَامَ عَشْرًادَاعِيًاوَمُجَاهِدًا  وَصِحَ ابُهُ كَانُوْالَهُ أَعْوَانَا",
-                "translation_id" : "Maka Beliau (SAW) Pun Bermukim Di Madinah Selama Sepuluh Tahun Sebagai Da'i Dan Mujahid Yang Para Sahabatnya Menjadi Para Pendukungnya (SAW)"
-            }, {
-                "teks" : "لَايَرْفَعُوْنَ إِذَاأَصْوَاتَهُمْ  بَلْ لَا يُحِدُّوْنَ الْبَصَرْ إِمْعَانَا",
-                "translation_id" : "Tidaklah Mereka Meninggikan Suara Ketika Di Hadapan Beliau (SAW) Terkecuali Berbicara Dengan Suara Lemah Lembut, Dan Tidaklah Mereka Mengangkat Kepala Di Hadapan Beliau (SAW), Bahkan Tak Berani Memandang Beliau (SAW)"
-            }, {
-                "teks" : "قَدْرًاوَتَعْظِيْمًالِشَأْنِ مُحَمَّدٍ  إِذْقَدْتَلَوْافِيْ فَضْلِهِ قُرْآنَا",
-                "translation_id" : "Sebagai Penghormatan Dan Pengagungan Terhadap Kemuliaan Muhammad (SAW) Yang Telah Mereka Baca Dan Temukan Kemuliaan Beliau (SAW) Dalam Al Quran"
-            }, {
-                "teks" : "وَلَقَدْرَأَوْمِنْ خُلْقِهِ عَجَبًاعَجَبًاوَكَمْ  قَدْشَاهَدُوْامَاحَيَّرَالْأَذْهَانَا",
-                "translation_id" : "Dan Mereka Telah Melihat Dari Akhlak Budi Pekerti Yang Luhur Dan Banyak Pula Mereka Menyaksikan Hal Yang Tak Terjangkau Logika (Mukjizat)"
-            }, {
-                "teks" : "كَرَمًاوَعَفْوًاوَالسَّخَاوَتَوَاضُعًا  وَالْجِزْعَحَنَّ مَحَبَّةًوَحَنَانَا",
-                "translation_id" : "Dermawan, Pema'af, Senang Memberi,Rendah Diri, Yang Mana Batang Kurma (Di Mimbar Beliau SAW) Terdengar Isak Tangisnya Karena Rinduan Dan Cintanya Terhadap Nabi (SAW)"
-            }, {
-                "teks" : "وَالْمَاءُمِنْ بَيْنِ الْأَصَابِعِ نَابِعَا  وَالْجَيْشَ أَضْحَی شَارِبًارِيَانَا",
-                "translation_id" : "Dan Air Memancar Dari Sela- Sela Jarinya (SAW) Dengan Derasnya, Maka Pasukan (Sahabat Beliau SAW) Minum Dengan Lahap Hingga Hilanglah Dahaga Mereka Semuanya"
-            }, {
-                "teks" : "وَاللّٰهِ قَدْعَظُمَتْ مَعَاجِزُأُحْمَدٍ  رَفَعَ الْمُهَيْمِنُ لِلنَّبِيِّ مَكَانَا",
-                "translation_id" : "Demi Allah Mulialah Mukjizat - Mukjizat Ahmad (SAW) Dan Beliau (SAW) Telah Di Muliakan Oleh Yang Mana Memelihara Ke Derajat Yang Setinggi - Tingginya"
-            }, {
-                "teks" : "وَلَقَدْغَزَاسُبْعًاوَعِشْرِيْنَ مَعَ  الصَّحْبِ رِجَالَّاقَدْمَشَوْارَكْبَانَا",
-                "translation_id" : "Beliau (SAW) Telah Berjihad Selama Hidupnya Sebanyak 27 Peperangan Bersama Para Sahabtnya Yang Setia Dan Mereka (Telah Berperang) Dengan Berjalan Kaki"
-            }, {
-                "teks" : "أَكْرِمْ بِهِ وَبِصَحْبِهِ وَبِتَابِعٍ  يَارَبِّ أَلْحِقْنَابِهِمْ إِحْسَانَا",
-                "translation_id" : "Maka Termuliakanlah (Kalian) Dengan Beliau (SAW) Serta Dengan Para Sahabatnya Serta Dengan Para Tabi'in Maka Wahai Tuhan Kami Susulkanlah Kami Kepada Perbuatan Dan Amal Mereka"
-            }, {
-                "teks" : "يَارَبَّنَاصَلِّ وَسَلِّمْ دَائِمًا  عَلَی حَبِيْبِكَ مَنْ إِلَيْكَ دَعَانَا",
-                "translation_id" : "Wahai Tuhan Kami Limpahkanlah Shalawat Dan Salam Sejahtera Selamanya Pada Kekasih-Mu Yang Telah Menyeru Kami Kepada-Mu"
-            }, {
-                "teks" : "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلَی آلِهِ",
                 "translation_id" : "Ya Allah Limpahkanlah Shalawat dan Salam serta Keberkahan Padanya dan Pada Keluarganya"
             }
         ]
@@ -702,7 +486,7 @@
         "name" : "Doa",
         "verses" : [
             {
-                "teks" : "ولَقَدْأَشَرْتُ لِنَعْتِ مَنْ أَوْصَافُهُ  تُحْيِي الْقُلُوْبَ تُهَيِّجُ الْأَشْجَانَا",
+                "teks" : "وَلَقَدْأَشَرْتُ لِنَعْتِ مَنْ أَوْصَافُهُ  تُحْيِي الْقُلُوْبَ تُهَيِّجُ الْأَشْجَانَا",
                 "translation_id" : "Maka Telah Ku Isyaratkan Untuk Menyifatkan Budi Pekerti (Beliau SAW) Yang Menghidupkan Dan Mengguncang Luruhkan Kegundahan"
             }, {
                 "teks" : "وَاللهُ قَدْأَثْنَى عَلَيْهِ فَمَايُسَا  وِى الْقَوْلُ مِنَّاأَوْيَكُوْنُ ثَنَانَا",
