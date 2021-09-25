@@ -41,11 +41,7 @@ class Profile extends StatelessWidget {
                   height: 60,
                 ),
                 Text(
-<<<<<<< HEAD
-                  "S Khaliqussani Q A"
-=======
                   "S KHALIQUSSANI Q A"
->>>>>>> 0fb89b933ee602ba1cc9d5c1b57075070a3e4bdf
                   ,style: TextStyle(
                     fontSize: 25.0,
                     color:Colors.blueGrey,
@@ -69,11 +65,7 @@ class Profile extends StatelessWidget {
                   height: 10,
                 ),
                 Text(
-<<<<<<< HEAD
-                  ""
-=======
                   "MAHASISWA UNIVERSITAS HAMZANWADI"
->>>>>>> 0fb89b933ee602ba1cc9d5c1b57075070a3e4bdf
                   ,style: TextStyle(
                     fontSize: 15.0,
                     color:Colors.black45,
