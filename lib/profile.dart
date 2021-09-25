@@ -41,7 +41,7 @@ class Profile extends StatelessWidget {
                   height: 60,
                 ),
                 Text(
-                  "sani Kesait"
+                  "S Khaliqussani Q A"
                   ,style: TextStyle(
                     fontSize: 25.0,
                     color:Colors.blueGrey,
@@ -65,7 +65,7 @@ class Profile extends StatelessWidget {
                   height: 10,
                 ),
                 Text(
-                  "Student at UNHAZ"
+                  ""
                   ,style: TextStyle(
                     fontSize: 15.0,
                     color:Colors.black45,
