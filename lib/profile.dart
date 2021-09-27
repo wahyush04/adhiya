@@ -91,7 +91,7 @@ class Profile extends StatelessWidget {
                   height: 15,
                 ),
                 Text(
-                  "Dart"
+                  "Developer Mobile"
                   ,style: TextStyle(
                     fontSize: 18.0,
                     color:Colors.black45,
@@ -116,7 +116,7 @@ class Profile extends StatelessWidget {
                   height: 5,
                 ),
                 Text(
-                  "JAVA"
+                  "Design"
                   ,style: TextStyle(
                     fontSize: 18.0,
                     color:Colors.black45,
@@ -141,7 +141,7 @@ class Profile extends StatelessWidget {
                   height: 5,
                 ),
                 Text(
-                  "PHP"
+                  "Video Editing"
                   ,style: TextStyle(
                     fontSize: 18.0,
                     color:Colors.black45,

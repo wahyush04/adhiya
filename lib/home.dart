@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // fit: BoxFit.cover,
           ),
         ),
-        title: Text('adhiya'),
+        title: Text('Adhiya Ullami Versi NWDI'),
         actions: <Widget>[
           IconButton(
             icon: Icon(CupertinoIcons.person_fill),

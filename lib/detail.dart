@@ -105,6 +105,7 @@ class _DetailState extends State < Detail > {
                                 ),
                               ),
                               ListView.builder(
+                                physics: const NeverScrollableScrollPhysics(),
                                 scrollDirection: Axis.vertical,
                                 shrinkWrap: true,
                                 itemCount: DataAdhiyaList[widget.i].verses.length,
