@@ -21,15 +21,23 @@ var DataAdhiyaList = [
     verses: [
       "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
       "لِسَيَّدِمُحَمّدٍ سَيَّدِالْاَنَامِ وَ لِسَا ئِرْ إِ خْوَانِهِ الْاَنْبِيَا ءِ وَالْمُرْسَلِيْنَ وَأٰلِہِمْ وَاَصْحَابِہِمُ الْکِرَامِ اَجْمَءِيْنَ ",
+      "اَلْفَاتِحَة",
       "لِصَا حِبِ اْلحِذْبِ مَوْ لاَنَااَبِےالْمَدَارِسِ وَالْمَسَاجِدِمُؤَسَّسِ نَهْےضَةِالْوَطَنِ اَلشَّيْخِ مُحَمَّدَذَيْنِ الدَّيْنِ بْنِ عَبْدِالْمَجِيْدِاَلْفَنْشَوْرِيَّ وَلأُصُوْلِهِ وَفُرُوْعِهِ وَلِمُحِبَّيْهِ",
+      "اَلْفَاتِحَة"
       "لِجَمِيْعِ الْعُلَمَءِالْعَامِلِيْنَ وَالْأَوْلِيَاءِالْعَارِفِيْنَ وَلِوَالِدِيْنَاوَلِمَشَايِحِنَ وَلِلنَّهْضِيَّيْنَ وَالنَّهْضِيَّاتِ وَلِجَمِيْعِ الْمُسْلِمَاتِ",
+      "اَلْفَاتِحَة"
 
     ],
     terjemah : [
       "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
-      "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
+      "Untuk Nabi Muhammad SAW. Junjungan kita dan ummat manusia, dan untuk saudara-saudaranya para Nabi dan Rasul, serta para keluarga dan sahabat mereka",
+      "",
+      "Khusus Kepada Yang Membuat Kitab Adhiya Ullami Al Habib Umar Muhammad Bin Salim Bin Hafizd",
+      "",
+      "Untuk yang mulia penghimpun Hizib sebagai bapak pelopor madrasah dan masjid serta pendiri Nahdlatul Wathan, Tuan Guru kiai Haji Muhammad Zainuddin bin Abdul Majid AlPancori, kedua orang tuanya dan nenek moyangnya, dan keluarga serta para pencintanya",
+      "",
+      "Untuk para Ulama' yang shalih,Auliya' Allah, orang tua dan guru kita, seluruh keluarga Nahdlatul Wathan dan ummat Islam (laki-laki dan perempuan)",
+      ""
     ],
     audio: 'audio/Tawasul_1.mp3'
     ),
