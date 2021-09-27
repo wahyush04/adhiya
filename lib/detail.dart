@@ -71,7 +71,7 @@ class _DetailState extends State < Detail > {
             Navigator.pop(context);
           },
           child: Icon(Icons.chevron_left)),
-        title: Text("${DataAdhiyaList[widget.i].name}"),
+        title: Text("Adhiya Ullami"),
         // actions: < Widget > [
         //   IconButton(onPressed: () {
         //     ScaffoldMessenger.of(context).showSnackBar(
@@ -110,38 +110,17 @@ class _DetailState extends State < Detail > {
                                 shrinkWrap: true,
                                 itemCount: DataAdhiyaList[widget.i].verses.length,
                                 itemBuilder: (context, index) {
-                                  return ListTile(
-                                    title: Text(DataAdhiyaList[widget.i].verses[index]),
-                                    subtitle: Text(DataAdhiyaList[widget.i].terjemah[index]),
+                                  return Card(
+                                    child: ListTile(
+                                    title: Text(DataAdhiyaList[widget.i].verses[index], textAlign: TextAlign.justify, textDirection: TextDirection.rtl, style: TextStyle(fontFamily: 'lpmq', fontSize: 30),),
+                                    subtitle: Padding(
+                                      padding: EdgeInsets.fromLTRB(0, 5.0, 0, 5.0),
+                                      child: Text(DataAdhiyaList[widget.i].terjemah[index], textAlign: TextAlign.justify,),),
+                                      
+                                  ),
                                   );
                                 },
                               )
-                              // ListView(
-                              //   physics: const NeverScrollableScrollPhysics(),
-                              //     shrinkWrap: true,
-                              //     children: DataAdhiyaList[widget.i].verses.map((text) {
-                              //       return Card(
-                              //         color: Colors.grey[50],
-                              //         child: Padding(
-                              //           padding: const EdgeInsets.all(5.0),
-                              //             child: Container(
-                              //               alignment: Alignment.centerRight,
-                              //               child: Padding(
-                              //                 padding: const EdgeInsets.all(8.0),
-                              //                   child: Text(
-                              //                     text, textAlign: TextAlign.justify, textDirection: TextDirection.rtl,
-                              //                     style: TextStyle(
-                              //                       fontFamily: 'lpmq',
-                              //                       fontWeight: FontWeight.normal,
-                              //                       fontSize: 30,
-                              //                     ),
-                              //                   ),
-                              //               ),
-                              //             ),
-                              //         ),
-                              //       );
-                              //     }).toList(),
-                              // ),
                             ],
                           ),
                         ),
@@ -149,7 +128,6 @@ class _DetailState extends State < Detail > {
                     ),
                 )
               ),
-
             ],
           ),
         ),
@@ -161,16 +139,6 @@ class _DetailState extends State < Detail > {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: < Widget > [
-                // InkWell(
-                //   onTap: () {
-                //     Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) {
-                //       // final DataAdhiya surah = DataAdhiyaList[index+1];
-                //       int iback = widget.i - 1;
-                //       return Detail(i: iback);
-                //     }));
-                //   },
-                //   child: Icon(Icons.skip_previous),
-                // ),
                 IconButton(onPressed: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) {
                     int index = widget.i;
                     int iback = widget.i - 1;
@@ -188,7 +156,7 @@ class _DetailState extends State < Detail > {
                 IconButton(onPressed: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) {
                     int index = widget.i;
                     int inext = widget.i + 1;
-                    if (index == 14) {
+                    if (index == 11) {
                       return Detail(i: index);
                     } else {
                       return Detail(i: inext);
