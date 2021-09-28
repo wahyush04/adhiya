@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.adhiya.adhiya">
    <application
-        android:label="adhiya"
+        android:label="Adhiya Ullami"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
