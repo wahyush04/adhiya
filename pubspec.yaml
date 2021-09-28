@@ -70,6 +70,7 @@ flutter:
     - assets/audio/ya_rabb_shalli_2.mp3
     - assets/audio/silent.mp3
     - assets/Habib_Umar.jpg
+    - assets/audio/full_bacaan.mp3
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
