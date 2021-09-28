@@ -215,7 +215,7 @@ class _DetailState extends State < Detail > {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(getTimeString(timeProgress)),
-                      slider(),
+                      Expanded(child: slider()),
                       audioDuration == 0? getLocalFileDuration():Text(getTimeString(audioDuration))
                       // Expanded(flex: 1,child: Text(getTimeString(timeProgress))),
                       // Expanded(flex: 5,child: slider()),
